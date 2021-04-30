@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(ArcDPS Boon Table.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Icon.cpp
+  HOMEUI.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_imm32_onthespot.cpp
+  main.cpp
+  MumbleLink.cpp
+  ConvertUTF.c
+    正在创建库 D:\jiangyi0923\GW2_arcdps_MountTool\x64\Release\d3d9_arcdps_MountTool.lib 和对象 D:\jiangyi0923\GW2_arcdps_MountTool\x64\Release\d3d9_arcdps_MountTool.exp
+  正在生成代码
+  1886 of 1902 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ArcDPS Boon Table.vcxproj -> D:\jiangyi0923\GW2_arcdps_MountTool\x64\Release\d3d9_arcdps_MountTool.dll
